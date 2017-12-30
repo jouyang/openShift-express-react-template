@@ -11,4 +11,4 @@ The express server serves the assets created from client/build
 
     * This run the dev server for the React app on port 3000 for localhost
     
-1. When ready to commit and deploy, run ```npm build``` in the client directory
+1. When ready to commit and deploy, run ```npm run build``` in the client directory
